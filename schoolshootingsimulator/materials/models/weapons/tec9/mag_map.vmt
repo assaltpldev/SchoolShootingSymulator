@@ -1,0 +1,15 @@
+VertexLitGeneric
+{
+	"$basetexture"	"models\weapons\tec9\mag_map"
+
+	"$phong" "1"
+	"$phongexponent" "25"
+	"$phongboost" "4"	
+	"$lightwarptexture" "models\lightwarps\weapon_lightwarp"
+	"$phongfresnelranges"	"[.25 .5 1]"
+	"$basemapalphaphongmask" "1"
+
+	"$rimlight" "1"
+	"$rimlightexponent" "3"	
+	"$rimlightboost" ".25"
+}
